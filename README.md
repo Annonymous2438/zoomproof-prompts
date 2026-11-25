@@ -8,4 +8,4 @@ Each page has the exact prompts in order, with a copy button on every one.
 ## Videos
 | Video | Prompts |
 |---|---|
-| Make Claude Code Build Beautiful Websites (Not AI Slop) | [beautiful-websites-claude-code](beautiful-websites-claude-code/README.md) |
+| [Make Claude Code Build Beautiful Websites (Not AI Slop)](https://youtu.be/LHDB1nQMD7Y) | [beautiful-websites-claude-code](beautiful-websites-claude-code/README.md) |

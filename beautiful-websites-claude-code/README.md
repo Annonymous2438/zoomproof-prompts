@@ -2,7 +2,7 @@
 
 Every prompt from the Zoomproof video, in the order I used them.
 
-▶ **Watch the video:** _(link added after upload)_  
+▶ **Watch the video:** https://youtu.be/LHDB1nQMD7Y  
 🌐 **The site from the video:** https://flowpilot-mocha.vercel.app/
 
 ---
